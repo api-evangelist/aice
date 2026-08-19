@@ -40,7 +40,7 @@ x-team-size: 2
 x-founders:
 - Gregoire Chomette
 - Remi Bouteiller
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
