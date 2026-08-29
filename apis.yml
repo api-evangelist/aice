@@ -36,6 +36,9 @@ accessModel:
   method: derived
 image: https://bookface-images.s3.amazonaws.com/small_logos/581bc66ce17e1873b4f5c5446cc221ea8275a118.png
 url: https://raw.githubusercontent.com/api-evangelist/aice/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "AICE currently ships hardware and does not publish a public API, SDK, or developer platform; this profile tracks the company for the API Evangelist network."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
